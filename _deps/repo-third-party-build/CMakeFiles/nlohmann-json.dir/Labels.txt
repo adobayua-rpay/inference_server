@@ -1,0 +1,13 @@
+# Target labels
+ nlohmann-json
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/nlohmann-json
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/nlohmann-json.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/nlohmann-json-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/nlohmann-json/src/nlohmann-json-stamp/nlohmann-json-update.rule

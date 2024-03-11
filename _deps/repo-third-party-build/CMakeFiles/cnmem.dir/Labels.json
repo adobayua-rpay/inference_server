@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/cnmem"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/cnmem.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/cnmem-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/cnmem/src/cnmem-stamp/cnmem-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cnmem"
+		],
+		"name" : "cnmem"
+	}
+}

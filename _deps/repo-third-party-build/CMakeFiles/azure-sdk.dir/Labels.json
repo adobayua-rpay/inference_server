@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/azure-sdk"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/azure-sdk.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/azure-sdk-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"azure-sdk"
+		],
+		"name" : "azure-sdk"
+	}
+}

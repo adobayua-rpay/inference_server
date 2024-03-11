@@ -1,0 +1,13 @@
+# Target labels
+ absl
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/absl
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/absl.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/absl-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/absl/src/absl-stamp/absl-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/aws-sdk-cpp"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/aws-sdk-cpp.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/aws-sdk-cpp-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"aws-sdk-cpp"
+		],
+		"name" : "aws-sdk-cpp"
+	}
+}

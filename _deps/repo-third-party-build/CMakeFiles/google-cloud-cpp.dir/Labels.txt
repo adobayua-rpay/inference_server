@@ -1,0 +1,13 @@
+# Target labels
+ google-cloud-cpp
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/google-cloud-cpp
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/google-cloud-cpp.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/google-cloud-cpp-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/google-cloud-cpp/src/google-cloud-cpp-stamp/google-cloud-cpp-update.rule

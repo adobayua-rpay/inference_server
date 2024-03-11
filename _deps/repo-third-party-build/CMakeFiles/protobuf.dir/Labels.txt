@@ -1,0 +1,13 @@
+# Target labels
+ protobuf
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/protobuf
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/protobuf.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/protobuf-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-update.rule

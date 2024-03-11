@@ -1,0 +1,13 @@
+# Target labels
+ triton-core
+# Source files and their labels
+/workspace/inference_server/_deps/repo-core-build/CMakeFiles/triton-core
+/workspace/inference_server/_deps/repo-core-build/CMakeFiles/triton-core.rule
+/workspace/inference_server/_deps/repo-core-build/CMakeFiles/triton-core-complete.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-build.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-configure.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-download.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-install.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-mkdir.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-patch.rule
+/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-update.rule

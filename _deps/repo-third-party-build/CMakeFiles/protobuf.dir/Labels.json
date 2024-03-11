@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/protobuf"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/protobuf.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/protobuf-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/protobuf/src/protobuf-stamp/protobuf-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"protobuf"
+		],
+		"name" : "protobuf"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ curl
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/curl
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/curl.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/curl-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ libevhtp
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/libevhtp
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/libevhtp.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/libevhtp-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevhtp/src/libevhtp-stamp/libevhtp-update.rule

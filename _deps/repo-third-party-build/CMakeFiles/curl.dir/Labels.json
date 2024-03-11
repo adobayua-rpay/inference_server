@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/curl"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/curl.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/curl-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/curl/src/curl-stamp/curl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"curl"
+		],
+		"name" : "curl"
+	}
+}

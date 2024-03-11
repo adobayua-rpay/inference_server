@@ -1,0 +1,13 @@
+# Target labels
+ opentelemetry-cpp
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/opentelemetry-cpp
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/opentelemetry-cpp.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/opentelemetry-cpp-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/opentelemetry-cpp/src/opentelemetry-cpp-stamp/opentelemetry-cpp-update.rule

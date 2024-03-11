@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/CMakeFiles/triton-core"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/CMakeFiles/triton-core.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/CMakeFiles/triton-core-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-core-build/triton-core/src/triton-core-stamp/triton-core-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"triton-core"
+		],
+		"name" : "triton-core"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ prometheus-cpp
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/prometheus-cpp
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/prometheus-cpp.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/prometheus-cpp-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/prometheus-cpp/src/prometheus-cpp-stamp/prometheus-cpp-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ aws-sdk-cpp
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/aws-sdk-cpp
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/aws-sdk-cpp.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/aws-sdk-cpp-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/aws-sdk-cpp/src/aws-sdk-cpp-stamp/aws-sdk-cpp-update.rule

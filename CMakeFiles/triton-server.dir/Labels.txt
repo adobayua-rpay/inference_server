@@ -1,0 +1,13 @@
+# Target labels
+ triton-server
+# Source files and their labels
+/workspace/inference_server/CMakeFiles/triton-server
+/workspace/inference_server/CMakeFiles/triton-server.rule
+/workspace/inference_server/CMakeFiles/triton-server-complete.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-build.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-configure.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-download.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-install.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-mkdir.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-patch.rule
+/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-update.rule

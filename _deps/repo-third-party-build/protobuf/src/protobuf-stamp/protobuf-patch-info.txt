@@ -1,0 +1,6 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The update step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command=git;cherry-pick;-n;f180289c4670ca1afde5865bb8a7f2b61a3efcc5
+work_dir=/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc/third_party/protobuf/cmake

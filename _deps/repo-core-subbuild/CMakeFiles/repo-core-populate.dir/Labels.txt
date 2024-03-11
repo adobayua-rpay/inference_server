@@ -1,0 +1,14 @@
+# Target labels
+ repo-core-populate
+# Source files and their labels
+/workspace/inference_server/_deps/repo-core-subbuild/CMakeFiles/repo-core-populate
+/workspace/inference_server/_deps/repo-core-subbuild/CMakeFiles/repo-core-populate.rule
+/workspace/inference_server/_deps/repo-core-subbuild/CMakeFiles/repo-core-populate-complete.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-build.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-configure.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-download.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-install.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-mkdir.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-patch.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-test.rule
+/workspace/inference_server/_deps/repo-core-subbuild/repo-core-populate-prefix/src/repo-core-populate-stamp/repo-core-populate-update.rule

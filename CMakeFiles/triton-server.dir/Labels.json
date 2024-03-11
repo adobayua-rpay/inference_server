@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/CMakeFiles/triton-server"
+		},
+		{
+			"file" : "/workspace/inference_server/CMakeFiles/triton-server.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/CMakeFiles/triton-server-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/triton-server/src/triton-server-stamp/triton-server-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"triton-server"
+		],
+		"name" : "triton-server"
+	}
+}

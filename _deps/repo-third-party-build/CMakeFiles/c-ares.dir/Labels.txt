@@ -1,0 +1,13 @@
+# Target labels
+ c-ares
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/c-ares
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/c-ares.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/c-ares-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/c-ares/src/c-ares-stamp/c-ares-update.rule

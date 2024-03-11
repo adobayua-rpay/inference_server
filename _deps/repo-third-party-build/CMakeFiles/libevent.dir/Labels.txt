@@ -1,0 +1,13 @@
+# Target labels
+ libevent
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/libevent
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/libevent.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/libevent-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/libevent/src/libevent-stamp/libevent-update.rule

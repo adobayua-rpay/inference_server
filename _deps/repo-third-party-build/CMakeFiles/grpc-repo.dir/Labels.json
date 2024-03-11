@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/grpc-repo"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/grpc-repo.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/grpc-repo-complete.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-build.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-configure.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-download.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-install.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-mkdir.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-patch.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-test.rule"
+		},
+		{
+			"file" : "/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"grpc-repo"
+		],
+		"name" : "grpc-repo"
+	}
+}

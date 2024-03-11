@@ -1,0 +1,13 @@
+# Target labels
+ azure-sdk
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/azure-sdk
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/azure-sdk.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/azure-sdk-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/azure-sdk/src/azure-sdk-stamp/azure-sdk-update.rule

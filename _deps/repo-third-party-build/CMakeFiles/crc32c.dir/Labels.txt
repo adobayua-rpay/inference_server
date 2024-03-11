@@ -1,0 +1,13 @@
+# Target labels
+ crc32c
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/crc32c
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/crc32c.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/crc32c-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/crc32c/src/crc32c-stamp/crc32c-update.rule

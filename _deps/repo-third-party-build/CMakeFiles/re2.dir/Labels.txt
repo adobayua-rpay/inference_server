@@ -1,0 +1,13 @@
+# Target labels
+ re2
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/re2
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/re2.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/re2-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/re2/src/re2-stamp/re2-update.rule

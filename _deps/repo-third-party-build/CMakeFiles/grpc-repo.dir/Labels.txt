@@ -1,0 +1,14 @@
+# Target labels
+ grpc-repo
+# Source files and their labels
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/grpc-repo
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/grpc-repo.rule
+/workspace/inference_server/_deps/repo-third-party-build/CMakeFiles/grpc-repo-complete.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-build.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-configure.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-download.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-install.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-mkdir.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-patch.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-test.rule
+/workspace/inference_server/_deps/repo-third-party-build/grpc-repo/src/grpc-repo-stamp/grpc-repo-update.rule
